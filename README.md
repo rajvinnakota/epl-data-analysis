@@ -34,7 +34,7 @@ It demonstrates end-to-end data analysis: cleaning, querying, and building inter
    - KPIs for quick performance overview
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard/dashboard.png)
+![Dashboard Screenshot](dashboard/Dashboard.png)
 
 ## 💡 Insights
 - Big 6 teams dominate seasonal performance, but with shifting strengths across decades.
